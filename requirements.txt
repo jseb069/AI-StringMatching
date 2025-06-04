@@ -1,0 +1,7 @@
+python-Levenshtein
+fuzzywuzzy
+sentence-transformers
+torch
+pandas
+tqdm
+scikit-learn
